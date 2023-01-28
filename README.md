@@ -17,9 +17,24 @@ Now we will create a ML model using CreateML,
 First open CreateMl and select **Image Classification** option and provide a name to your model.
 ![Screenshot 2023-01-28 at 4 04 32 PM](https://user-images.githubusercontent.com/63160825/215262529-13a75e48-2238-416b-b89f-fda4b9174572.png)
 
-after that we will jump to a screen like this
+After that we will jump to a screen like this, here we have to provide data for creating a model. We are using data that contains Dogs and Cat images, also you can see in the console that we have to provide two type of data first is **Training Data** and second is **Testing Data**. Training data is used to train a ML model and Testing data is used to test our ML model that we have created. Next we will provide data to respective places.
 ![Screenshot 2023-01-28 at 4 05 49 PM](https://user-images.githubusercontent.com/63160825/215262556-d737d865-3f87-4733-b9c5-40ab264f157b.png)
-Here we have to provide data for creating a model. We are using data that contains Dogs and Cat images, also you can see in the console that we have to provide two type of data first is **Training Data** and second is **Testing Data**. Training data is used to train a ML model and Testing data is used to test our ML model that we have created. Next we will provide data to respective places
 
-Now you can see that we have 2 classes and 24 items in training and for testing we have 2 classes and 8 items.
+Now you can see that we have 2 classes and 24 items in training and for testing we have 2 classes and 8 items. Next is we have to start training the model.
 ![Screenshot 2023-01-28 at 4 06 37 PM](https://user-images.githubusercontent.com/63160825/215262781-b1c97429-ffae-4978-98d6-4729fce0420d.png)
+
+Model training strated.
+![Screenshot 2023-01-28 at 4 07 56 PM](https://user-images.githubusercontent.com/63160825/215262985-088a5c02-c231-4c2e-8986-541883917e51.png)
+
+After completion we have our evaluations which shows we have successfully trained the data and test it with 100% precision in each cases.
+![Screenshot 2023-01-28 at 4 11 48 PM](https://user-images.githubusercontent.com/63160825/215263042-ee23c8d2-35ee-4741-b039-57e4b0ba1c82.png)
+
+Now you model is ready to download.
+![Screenshot 2023-01-28 at 4 12 08 PM](https://user-images.githubusercontent.com/63160825/215263054-7b910cc4-75c2-4c29-8395-803692108ecc.png)
+
+
+
+
+
+
+
