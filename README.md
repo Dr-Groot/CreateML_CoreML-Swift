@@ -1,6 +1,6 @@
 # CreateML-CoreML-DogCat-Swift
 
-##CreateML
+## CreateML
 
 Use Create ML with familiar tools like Swift and macOS playgrounds to create and train custom machine learning models on your Mac. You can train models to perform tasks like recognizing images, extracting meaning from text, or finding relationships between numerical values.
 
@@ -29,10 +29,11 @@ Model training strated.
 After completion we have our evaluations which shows we have successfully trained the data and test it with 100% precision in each cases.
 ![Screenshot 2023-01-28 at 4 11 48 PM](https://user-images.githubusercontent.com/63160825/215263042-ee23c8d2-35ee-4741-b039-57e4b0ba1c82.png)
 
-Now you model is ready to download.
+Now your model is ready to download.
 ![Screenshot 2023-01-28 at 4 12 08 PM](https://user-images.githubusercontent.com/63160825/215263054-7b910cc4-75c2-4c29-8395-803692108ecc.png)
 
 
+## Project
 
 
 
