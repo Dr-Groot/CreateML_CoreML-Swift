@@ -41,5 +41,5 @@ In this project we are using same model which we have created and here we can se
 After selecting the image we get our results in the form of confidence percenetage form
 ![IMG_1983](https://user-images.githubusercontent.com/63160825/215263395-1c027434-7d5a-46c6-96a2-454b61cc4d17.PNG)
 
-To know more about CoreML working you can check my CoreML Object Detection project on github.
+> To know more about CoreML working you can check my CoreML Object Detection project on github.
 
