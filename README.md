@@ -35,7 +35,11 @@ Now your model is ready to download.
 
 ## Project
 
+In this project we are using same model which we have created and here we can select image via gallery or by camera.
+![IMG_1982](https://user-images.githubusercontent.com/63160825/215263340-e11dcae0-17b9-4d3c-a0ae-ecbe1b12531a.PNG)
 
+After selecting the image we get our results in the form of confidence percenetage form
+![IMG_1983](https://user-images.githubusercontent.com/63160825/215263395-1c027434-7d5a-46c6-96a2-454b61cc4d17.PNG)
 
-
+To know more about CoreML working you can check my CoreML Object Detection project on github.
 
